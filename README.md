@@ -1,17 +1,14 @@
-# JsPluginTemplate
+# MoreUsefulVariables
 
-Serein插件模板仓库
+提供更多有用的变量
 
-## 使用方法
+## 变量列表
 
-### 创建仓库
-
-1. 点击仓库右上角的`Use this template`
-2. 选择`Create a new repository`并创建仓库
-3. 编写你的插件✨
-
-### 使用源码
-
-1. 点击仓库右上角的`Code`
-2. 点击`Download ZIP`下载源码并解压
-3. 编写你的插件✨
+| 变量名                          | 说明             |
+| ------------------------------- | ---------------- |
+| `deviceinfo_drivetype_{盘符}`   | 驱动器类型       |
+| `deviceinfo_driveformat_{盘符}` | 驱动器格式       |
+| `deviceinfo_free_{盘符}`        | 驱动器剩余空间   |
+| `deviceinfo_used_{盘符}`        | 驱动器已用空间   |
+| `deviceinfo_total_{盘符}`       | 驱动器总空间     |
+| `deviceinfo_usage_{盘符}`       | 驱动器空间使用率 |
