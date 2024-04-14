@@ -1,0 +1,15 @@
+{
+    "$schema": "https://sereincommunity.github.io/json-schemas/v2/plugin-info.json",
+    "id": "more-useful-variables",
+    "name": "更多有用的变量",
+    "description": "提供一系列有用的命令变量",
+    "isModule": false,
+    "targetingSerein": [
+        "1.3.4",
+        "1.3.5",
+        "2.0"
+    ],
+    "tags": [
+        "information"
+    ]
+}
