@@ -3,7 +3,8 @@
     "id": "more-useful-variables",
     "name": "更多有用的变量",
     "description": "提供一系列有用的命令变量",
-    "isModule": false,
+    "type": "js",
+    "version": "1.0",
     "targetingSerein": [
         "1.3.4",
         "1.3.5",
